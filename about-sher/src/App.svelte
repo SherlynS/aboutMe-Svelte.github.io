@@ -61,7 +61,7 @@
 
 <style>
   h1 {
-    color: #f50762;
+    color: #f01b6c;
     font-family: Arial, sans-serif;
   }
   h2 {
